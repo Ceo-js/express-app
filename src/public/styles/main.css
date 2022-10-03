@@ -6,8 +6,8 @@
 }
 
 body {
-    background: #000;
+    display: flex;
+    align-items: center; justify-content: center;
+    background: #1b1d22;
     color: #27f;
-    display: grid;
-    place-items: center;
 }
